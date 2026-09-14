@@ -6,7 +6,7 @@
 
 <br>
 
-I work on software, AI-assisted tooling and automation — mostly around internal systems and workflows.
+I work on software, AI-assisted tooling and automation - mostly around internal systems and workflows.
 
 Most production repositories are private. Selected case studies are on **[patrikdinh.com](https://patrikdinh.com)**.
 
